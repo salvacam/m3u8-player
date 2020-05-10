@@ -1,4 +1,4 @@
-var cacheName = 'm3u8_player-v0.1.01';
+var cacheName = 'm3u8_player-v0.1.02';
 
 var filesToCache = [
   './',
